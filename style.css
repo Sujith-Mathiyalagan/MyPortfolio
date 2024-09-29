@@ -24,6 +24,10 @@ html{
 p{
     color: rgb(85, 85, 85);
 }
+img {
+  border-radius: 50%;
+}
+
 
 /* Transitions */
     
